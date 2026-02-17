@@ -1,0 +1,8 @@
+{
+  "name": "NexChain SCM",
+  "description": "A comprehensive Supply Chain Management platform with real-time inventory tracking, AI-powered procurement insights, and integrated logistics management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
